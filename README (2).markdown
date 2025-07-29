@@ -20,7 +20,8 @@ This dashboard provides an AI-driven visualization of sales data, including hist
 ## Data Source
 The data visualized in this dashboard is sourced from internal sales records and AI-based forecasting models.
 
-![AI-Powered Sales Forecasting Dashboard Screenshot](attachment://dashboard_image.png)
+<img width="1295" height="733" alt="image" src="https://github.com/user-attachments/assets/3d755957-d971-4cdd-b843-0f728bc31490" />
+
 
 ## Requirements
 - A modern web browser to view the dashboard.
@@ -59,10 +60,5 @@ This project blends data science, business understanding, and visualization, ali
 - Facebook Prophet – Popular tool for time series forecasting
 
 ### 📁 Sample Datasets
-The project utilized free, high-quality datasets such as:
+The project utilized free, high-quality dataset:
 - 🛍️ Superstore Sales Dataset
-- 🛒 Retail Sales Forecasting (Kaggle)
-- 📆 Rossmann Store Sales (Kaggle)
-
-## Contact
-For any issues or suggestions, please contact the development team.
