@@ -20,6 +20,10 @@ This dashboard provides an AI-driven visualization of sales data, including hist
 ## Data Source
 The data visualized in this dashboard is sourced from internal sales records and AI-based forecasting models.
 
+"C:\Users\bhuvi\OneDrive\Pictures\Camera Roll\Screenshots\Screenshot 2025-07-29 184649.png"
+
+
+
 ## Requirements
 - A modern web browser to view the dashboard.
 - Access to the underlying sales data and forecasting API.
