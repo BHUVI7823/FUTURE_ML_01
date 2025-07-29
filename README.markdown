@@ -23,6 +23,3 @@ The data visualized in this dashboard is sourced from internal sales records and
 ## Requirements
 - A modern web browser to view the dashboard.
 - Access to the underlying sales data and forecasting API.
-
-## Contact
-For any issues or suggestions, please contact the development team.
